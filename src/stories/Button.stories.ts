@@ -19,7 +19,7 @@ const meta = {
       control: { type: "radio" },
     },
     buttonType: {
-      options: ["primary", "warning", "success", "error", "info"],
+      options: ["primary", "warning", "success"],
       control: { type: "radio" },
     },
   },

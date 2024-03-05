@@ -1,11 +1,10 @@
-import { Button } from "@/components/Button";
+import { BrowserRouter } from "react-router-dom";
+
+//style
+import "./App.css";
 
 function App() {
-  return (
-    <>
-      <Button text="Button" />
-    </>
-  );
+  return <BrowserRouter></BrowserRouter>;
 }
 
 export default App;
